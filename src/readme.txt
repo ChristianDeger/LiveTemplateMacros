@@ -1,0 +1,1 @@
+Built using Resharper 5.0 nightly build #1612
